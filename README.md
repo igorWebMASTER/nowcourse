@@ -1,2 +1,2 @@
-# nowcourse
+# Nowcourse
 Nowcourse is an website
